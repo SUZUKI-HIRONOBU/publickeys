@@ -1,4 +1,4 @@
-<!--
+<pre>
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -30,4 +30,5 @@ YUlBXXofZeK86dEWjs7n8eEZyLQZQstYNXTJYDIXA+gnLnr0YuZytVC8KA1M4gC8
 =go6f
 -----END PGP PUBLIC KEY BLOCK-----
 
--->
+
+</pre>
